@@ -87,5 +87,5 @@ Most sound effects and the menu music are not included in this repo, so the
 The images, font and gun sound are from Danial's pygame tutorial, used under the MIT License.
 See [CREDITS.md](CREDITS.md) for details and the full licence.
 
-Danial has a full YouTube playlist on building the game step by step. I didn't follow it and only used the assets he provided. All the code is my own, and some features, like the high score database, aren't in his tutorial and
+Danial has a full YouTube playlist on building the game step by step. The tutorial was not followed as a development guide; I used the provided assets and developed the game's code independently. All the code is my own, and some features, like the high score database, aren't in his tutorial and
 were implemented by me.
