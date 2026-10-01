@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.vscode/
+assets/sounds/eek.mp3
+assets/sounds/huah.mp3
+assets/sounds/death.mp3
+assets/sounds/lobby.mp3
+highscores.db
+sqlite3.exe
