@@ -21,12 +21,16 @@ A top-down arena shooter built with Python and [pygame](https://www.pygame.org/)
 
 ## Installation and running
 
-```bash
-git clone https://github.com/yourusername/arena-pvp.git
-cd arena-pvp
+git clone https://github.com/blejzerrr/2D-Arena-PvP-game.git
+cd 2D-Arena-PvP-game
+
+Install the required dependency:
+
 pip install pygame
+
+Run the game:
+
 python main.py
-```
 
 Run the game from the project root (the folder containing `main.py`), because asset paths are relative.
 
